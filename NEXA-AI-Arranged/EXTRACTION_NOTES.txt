@@ -1,0 +1,9 @@
+NEXA AI - Arranged Source Package
+
+This package was assembled from the code blocks present in the uploaded NEXA AI project specification.
+- Files are placed according to the paths explicitly stated in the source document.
+- Where the same path appeared more than once, the later occurrence was kept.
+- No missing source code was invented.
+- Some files mentioned in the original project tree may therefore be absent if their code was not included in the source document.
+
+Generated from the uploaded project specification on 2026-09-04.

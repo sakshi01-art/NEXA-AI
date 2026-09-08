@@ -1,0 +1,20 @@
+{
+  "name": "Example Plugin",
+  "id": "example_plugin",
+  "version": "1.0.0",
+  "description": "An example NEXA plugin",
+  "author": "NEXA Developer",
+  "entry_point": "main.py",
+  "tools": [
+    "example_tool"
+  ],
+  "hooks": [
+    "on_message",
+    "on_task_complete"
+  ],
+  "permissions": [
+    "filesystem",
+    "network"
+  ],
+  "enabled": false
+}
