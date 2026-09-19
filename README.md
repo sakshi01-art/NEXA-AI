@@ -23,6 +23,16 @@ The repository is designed to evolve as new AI concepts and application features
 
 ---
 
+## 🎨 Project Visual
+
+<p align="center">
+  <img src="./assets/project-draw.svg" alt="NEXA-AI project architecture and workflow" width="100%" />
+</p>
+
+> **Visual:** Idea → AI logic → build → test → evaluate → improve.
+
+---
+
 ## ✨ What This Project Focuses On
 
 <div align="center">
