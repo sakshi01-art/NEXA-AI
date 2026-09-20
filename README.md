@@ -154,3 +154,12 @@ NEXA-AI is about **learning by building** — taking an idea, understanding the 
 ⭐ **Star the repo if you enjoy the journey!**
 
 </div>
+
+
+---
+
+## 🔥 Latest Update — 20 September 2026
+
+- Refreshed the project documentation and presentation.
+- Kept the architecture and development roadmap clear for future modules.
+- Continuing practical implementation and incremental improvements.
