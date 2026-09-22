@@ -171,3 +171,7 @@ NEXA-AI is about **learning by building** — taking an idea, understanding the 
 - Clarified the project focus on practical AI/Python learning and incremental implementation.
 - Next focus: concrete core AI functionality, tests, and modularization.
 
+## 🚀 Development Update — 22 September 2026
+
+- Refined the project roadmap around core implementation, testing, and modularization.
+- Kept the AI learning workflow focused on research, building, testing, and iteration.
