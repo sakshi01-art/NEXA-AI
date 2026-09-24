@@ -175,3 +175,11 @@ NEXA-AI is about **learning by building** — taking an idea, understanding the 
 
 - Refined the project roadmap around core implementation, testing, and modularization.
 - Kept the AI learning workflow focused on research, building, testing, and iteration.
+
+---
+
+## 🚀 Development Update — 24 September 2026
+
+- Added a clearer implementation checkpoint for the next AI module.
+- Organized the roadmap around **core logic → testing → interface → documentation**.
+- Kept unfinished features explicitly marked so the repository reflects the current development stage.
