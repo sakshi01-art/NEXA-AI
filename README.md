@@ -192,3 +192,11 @@ NEXA-AI is about **learning by building** — taking an idea, understanding the 
 - Enhanced the NEXA-AI architecture visual with a clearer AI development flow.
 - Added an explicit feedback loop for **Evaluate → Improve → Repeat**.
 - Added a compact stack overview covering Python, AI concepts, Git/GitHub, testing, and modular design.
+
+---
+
+## ✨ Development Update — 26 September 2026
+
+- Refreshed the project documentation for the latest development stage.
+- Kept the roadmap focused on practical implementation, testing, and continuous improvement.
+- Updated the project progress section so the repository stays current and easy to review.
